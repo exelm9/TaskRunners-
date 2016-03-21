@@ -1,0 +1,14 @@
+{
+  "name": "NPMScriptExample",
+  "version": "0.0.0",
+  "main": "",
+  "scripts": {
+    "build-css": "node-sass --include-path scss styles/main.scss output/styles/main.css"
+  },
+  "author": "Melinda Bernardo <melindabernrdo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  }
+}
