@@ -1,0 +1,15 @@
+{
+  "name": "GruntExample",
+  "version": "0.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melinda Bernardo <melindabernrdo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-sass": "^1.1.0"
+  }
+}
